@@ -1,0 +1,3 @@
+D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/Text_Based_RPG.dir
+D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

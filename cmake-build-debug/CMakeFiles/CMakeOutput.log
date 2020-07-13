@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Visual Studio Program/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28315 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28315.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Visual Studio Program/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28315 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.24.28315.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d6b94\fast && 	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_d6b94.dir\build.make /nologo -L                  CMakeFiles\cmTC_d6b94.dir\build
+Building C object CMakeFiles/cmTC_d6b94.dir/testCCompiler.c.obj
+	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\cl.exe" @C:\Users\Paul\AppData\Local\Temp\nm7895.tmp
+testCCompiler.c
+Linking C executable cmTC_d6b94.exe
+	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d6b94.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_d6b94.dir\objects1.rsp @C:\Users\Paul\AppData\Local\Temp\nm7A2D.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_217ef\fast && 	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_217ef.dir\build.make /nologo -L                  CMakeFiles\cmTC_217ef.dir\build
+Building C object CMakeFiles/cmTC_217ef.dir/CMakeCCompilerABI.c.obj
+	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\cl.exe" @C:\Users\Paul\AppData\Local\Temp\nm7E43.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_217ef.exe
+	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_217ef.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_217ef.dir\objects1.rsp @C:\Users\Paul\AppData\Local\Temp\nm7EC1.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_bd284\fast && 	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_bd284.dir\build.make /nologo -L                  CMakeFiles\cmTC_bd284.dir\build
+Building CXX object CMakeFiles/cmTC_bd284.dir/testCXXCompiler.cxx.obj
+	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\cl.exe" @C:\Users\Paul\AppData\Local\Temp\nm81BD.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_bd284.exe
+	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bd284.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_bd284.dir\objects1.rsp @C:\Users\Paul\AppData\Local\Temp\nm824B.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Projects/Text-Based RPG/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_56cac\fast && 	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_56cac.dir\build.make /nologo -L                  CMakeFiles\cmTC_56cac.dir\build
+Building CXX object CMakeFiles/cmTC_56cac.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\cl.exe" @C:\Users\Paul\AppData\Local\Temp\nm8567.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_56cac.exe
+	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_56cac.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Visual Studio Program\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_56cac.dir\objects1.rsp @C:\Users\Paul\AppData\Local\Temp\nm85E5.tmp
+
+
+
